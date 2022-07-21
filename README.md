@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Judah-Liber, Currently a senior at UCF studying computer science.
-- 👀 I’m interested in learning software development and growing my skilsl as a developer.
-- 🌱 I’m currently learning SQL, AI algorithms, broadening application of data structures.
+- 👋 Hi, I’m @Judah-Libera, Currently a senior at UCF studying computer science. The purpose of this account is to be a smaller, cleaner space for my active and more advanced projects.
+- 👀 I’m interested in learning software development and growing my skills as a developer.
+- 🌱 I’m currently learning SQL, AI algorithms, and broadening my application of data structures.
 - 📫 How to reach me: judahlibera@gmail.com
 
 <!---
