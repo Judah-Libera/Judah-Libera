@@ -1,0 +1,20 @@
+# Cropped Detail Images - Enhancement References
+
+## Detail Enhancement Crops
+
+### detail1.png - Left Side Enhancement
+- Focused crop of the left side area that was previously blurry
+- Shows the sharpening improvements and detail recovery
+- Demonstrates hextech element integration in problematic area
+
+### detail2.png - Launcher Interface Detail
+- Close-up view of the launcher interface elements
+- Highlights the hextech-inspired enhancements
+- Shows crystal formations and energy flow details
+
+### hextech_elements.png - Style Reference Crops
+- Collection of hextech aesthetic elements applied to the launcher
+- Reference crops showing the Arcane-inspired styling
+- Examples of the crystal patterns and energy effects used
+
+[These are placeholder specifications - actual cropped images should replace this text]

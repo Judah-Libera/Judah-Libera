@@ -1,0 +1,35 @@
+# Image Enhancement Project .gitignore
+
+# Temporary image processing files
+*.tmp
+*.temp
+/tmp/
+
+# Large image files (keep only final versions)
+*_working.*
+*_draft.*
+*_backup.*
+
+# Image processing cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Log files
+*.log
